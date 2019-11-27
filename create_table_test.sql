@@ -1,4 +1,4 @@
-create table core_invoice.orders_bis as
+create table core_module.orders_bis as
 select * 
-from core_invoice.orders 
+from core_module.orders 
 where 1=2;
