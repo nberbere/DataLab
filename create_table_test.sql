@@ -1,4 +1,1 @@
-create table core_module.orders_bis as
-select * 
-from core_module.orders 
-where 1=2;
+create table test (t number(10),name varchar2(30));
